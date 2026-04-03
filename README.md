@@ -12,12 +12,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZjYyMWUwMDAtNTFkMi00ZmQ5LWJmYmQtOWQ0MzhkO
 
 ---
 
-## Project Walkthrough (YouTube)
-🎥 **Presentation & Business Walkthrough**  
-https://youtu.be/fN-KrgYCHYQ
-
----
-
 ## Dashboard Pages
 - Overview
 - Sales Channel Insights
